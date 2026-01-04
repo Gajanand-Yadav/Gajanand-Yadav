@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Hi, I'm Gajanand
 
-<!--
-**Gajanand-Yadav/Gajanand-Yadav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Motivated Frontend Developer
+🚀 Preparing for hackathons| Currently exploring internship opportunity in Development 
+📍 Based in Delhi, India
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+
+Here are a few things I’ve built recently:
+## Amazon Clone
+
+Self-initiated and developed Project:
+## Krishi Sahayak
+
+## 🧰 Tech Stack
+⁠ Python ⁠  ⁠ GIT ⁠ ⁠ GitHub ⁠ ⁠ HTML ⁠ ⁠ CSS ⁠ ⁠ JavaScript ⁠ ⁠ React  C++
+
+## 📫 Let’s Connect
+
+•⁠  ⁠🔗 [LinkedIn](https://www.linkedin.com/in/gajanand-yadav/)
+•⁠  ⁠🧑‍💻 [GitHub](https://github.com/Gajanand-Yadav)
+•⁠  ⁠📬 Email: gajanandydv09@gmail.com
+⁠
+
+
+
