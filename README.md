@@ -9,13 +9,17 @@
 ## 🚀 Projects
 
 Here are a few things I’ve built recently:
-## Amazon Clone
+## Amazon Clone(https://github.com/Gajanand-Yadav/Amazon-Clone.git)
+## Music-Streaming(https://github.com/Gajanand-Yadav/MUSIC---STREAMING-.git)
 
 Self-initiated and developed Project:
-## Krishi Sahayak
+## Krishi Sahayak(https://github.com/Gajanand-Yadav/Krishi-Sahayak.git)
+---
 
 ## 🧰 Tech Stack
 ⁠ Python ⁠  ⁠ GIT ⁠ ⁠ GitHub ⁠ ⁠ HTML ⁠ ⁠ CSS ⁠ ⁠ JavaScript ⁠ ⁠ React  C++
+
+---
 
 ## 📫 Let’s Connect
 
@@ -23,6 +27,6 @@ Self-initiated and developed Project:
 •⁠  ⁠🧑‍💻 [GitHub](https://github.com/Gajanand-Yadav)
 •⁠  ⁠📬 Email: gajanandydv09@gmail.com
 ⁠
-
+#|Growing By Doing|
 
 
