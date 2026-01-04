@@ -9,11 +9,12 @@
 ## 🚀 Projects
 
 Here are a few things I’ve built recently:
-# [Amazon Clone](https://github.com/Gajanand-Yadav/Amazon-Clone.git)
-# [Music-Streaming](https://github.com/Gajanand-Yadav/MUSIC---STREAMING-.git)
+ [Amazon Clone](https://github.com/Gajanand-Yadav/Amazon-Clone.git)
+ [Music-Streaming](https://github.com/Gajanand-Yadav/MUSIC---STREAMING-.git)
 
 Self-initiated and developed Project:
-## [Krishi Sahayak](https://github.com/Gajanand-Yadav/Krishi-Sahayak.git)
+[Krishi Sahayak](https://github.com/Gajanand-Yadav/Krishi-Sahayak.git)
+
 ---
 
 ## 🧰 Tech Stack
